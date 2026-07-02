@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Timetable Mobile</string>
+    <string name="sync_now">Sync Now</string>
+    <string name="section_all">All Sections</string>
+</resources>
