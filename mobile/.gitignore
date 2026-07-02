@@ -20,3 +20,4 @@
 
 # Local Claude Code settings (may contain secrets in allowlisted commands)
 .claude/settings.local.json
+
